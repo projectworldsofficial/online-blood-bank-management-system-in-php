@@ -1,0 +1,62 @@
+/**{
+    margin: 0px;
+    padding: 0px;
+}*/
+body{
+
+    padding-top: 3.5em;
+    background-image: url("../assets/bg_image.jpg");
+}
+table{
+    font-family: tahoma;
+}
+
+h5{
+    font-size: xx-large;
+    font-family: "Cantarell",cursive;
+    color: crimson;
+}
+.index-container{
+}
+.loginBtn{
+
+}
+.emphasize{
+    font-weight: bold;
+    font-size: large;
+    color: red;
+    text-shadow: 2px;
+    font-family: tahoma;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    font-family: tahoma;
+    color: white;
+}
+
+#Heading{
+    font-size: 60px;
+    color: grey;
+    font-family: comic sans ms;
+}
+#Heading:hover{
+    color: darkred;
+}
+#About{
+    font-family: tahoma ;
+}
+#line_1{
+    width: 1140px;
+    color: black;
+
+}
+#Heading2{
+    font-size: 60px;
+    color: grey;
+    font-family: comic sans ms;
+}
+#Heading2:hover{
+    color: darkred;
+}

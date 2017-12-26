@@ -1,0 +1,23 @@
+/**{
+    margin: 0px;
+    padding: 0px;
+}*/
+body{
+    padding-top: 3.2em;
+    
+}
+h5{
+    font-size: xx-large;
+    font-family: "Cantarell",cursive;
+    color: crimson;
+}
+.loginBtn{
+
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    font-family: tahoma;
+    color: white;
+}
